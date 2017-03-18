@@ -1,0 +1,12 @@
+c:\users\user-pc\documents\visual studio 2015\Projects\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.exe.config
+C:\Users\User-PC\Documents\Visual Studio 2015\Projects\WindowsApplication22\WindowsApplication22\obj\Debug\WindowsApplication22.Form1.resources
+C:\Users\User-PC\Documents\Visual Studio 2015\Projects\WindowsApplication22\WindowsApplication22\obj\Debug\WindowsApplication22.Resources.resources
+C:\Users\User-PC\Documents\Visual Studio 2015\Projects\WindowsApplication22\WindowsApplication22\obj\Debug\WindowsApplication22.vbproj.GenerateResource.Cache
+C:\Users\User-PC\Documents\Visual Studio 2015\Projects\WindowsApplication22\WindowsApplication22\obj\Debug\WindowsApplication22.xml
+C:\Users\User-PC\Documents\Visual Studio 2015\Projects\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.exe
+C:\Users\User-PC\Documents\Visual Studio 2015\Projects\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.pdb
+C:\Users\User-PC\Documents\Visual Studio 2015\Projects\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.xml
+C:\Users\User-PC\Documents\Visual Studio 2015\Projects\WindowsApplication22\WindowsApplication22\obj\Debug\WindowsApplication22.exe
+C:\Users\User-PC\Documents\Visual Studio 2015\Projects\WindowsApplication22\WindowsApplication22\obj\Debug\WindowsApplication22.pdb
+C:\Users\User-PC\Documents\Visual Studio 2015\Projects\WindowsApplication22\WindowsApplication22\obj\Debug\WindowsApplication22.vbprojResolveAssemblyReference.cache
+C:\Users\User-PC\Documents\Visual Studio 2015\Projects\WindowsApplication22\WindowsApplication22\obj\Debug\WindowsApplication22.Form2.resources
